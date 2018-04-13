@@ -44,7 +44,7 @@ tissue samples and tumor
 tissue-of-origin mapping from plasma DNA"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/tissue_specific_cfDNA/Guo_et_al.pdf)
 
 
-## Algorithm development 
+## Algorithm Development 
 * Lee et al ["An integrative approach for efficient 
 analysis of whole genome bisulfite sequencing data"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Lee_et_al.pdf)
 * Kunde-Ramamoorty et al ["Comparison and quantitative 
