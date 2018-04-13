@@ -1,7 +1,7 @@
 # Table of Contents: 
 
 
-## cfdna general background 
+## Cell-free DNA General Background 
 * Pan et al ["Brain Tumor Mutations Detected in Cerebral Spinal Fluid"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Pan%20et%20al.pdf)
 * Schilling and Rehli ["Global, comparative analysis of tissue-specific 
 promoter CpG methylation"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Schilling%20and%20Rehli.pdf)
@@ -27,7 +27,7 @@ Methylation Patterns"](https://github.com/christacaggiano/cell-free-dna-reading-
 epigenetic control of gene expression"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/intro_methylation_review.pdf)
 
 
-## papers relating to tissue deconvolution
+## Papers Relating to Tissue Deconvolution
 * Lehman-Werman et al  ["Identification of tissue-specific cell 
 death using methylation patterns of circulating DNA"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/tissue_specific_cfDNA/Lehman-Werman_et_al.pdf)
 * Synder et al ["Cell-free DNA Comprises an In Vivo Nucleosome
