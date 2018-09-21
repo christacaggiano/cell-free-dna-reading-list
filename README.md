@@ -53,9 +53,21 @@ epigenetic control of gene expression"](https://github.com/christacaggiano/cell-
 ](https://www.nature.com/articles/nrg3354)
 
 ## Non-CpG Methylation
-*
+* Xu and Corces ["Nascent DNA methylome mapping reveals inheritance of hemimethylation at CTCF/cohesin sites
+"](http://science.sciencemag.org/content/359/6380/1166.full)
+
 ## Deconvolution algorithms
-*
+* Houseman et al ["Reference-free
+deconvolution of DNA methylation
+data and mediation by cell
+composition effects" ](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Houseman_et_al.pdf)
+* Rahmani et al ["Sparse PCA Corrects for
+Cell-Type Heterogeneity in Epigenome-Wide
+Association Studies"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Rahmani_et_al.pdf)
+* Gond and Szustakowski ["DeconRNASeq: a statistical framework for
+deconvolution of heterogeneous
+tissue samples based on mRNA-Seq data"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Gong%20and%20Szustakowski.pdf)
+
 ## WGBS Algorithms
 * Ziller et al ["Coverage recommendations for methylation analysis by whole genome bisulfite sequencing"](https://www.nature.com/articles/nmeth.3152)
 * Merkel et al ["gemBS - high throughput processing for DNA methylation data from Bisulfite Sequencing
@@ -67,17 +79,7 @@ verification of mapping algorithms
 for whole-genome bisulfite sequencing"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Kunde-Ramamoorthy_et_al.pdf)
 * Xi and Li ["BSMAP: whole genome bisulfite
 sequence MAPping program"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Xi%20and%20Li.pdf)
-* Guo et al "BS-Seeker2: a versatile aligning pipeline for bisulfite sequencing data"
-* Houseman et al ["Reference-free
-deconvolution of DNA methylation
-data and mediation by cell
-composition effects" ](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Houseman_et_al.pdf)
-* Rahmani et al ["Sparse PCA Corrects for
-Cell-Type Heterogeneity in Epigenome-Wide
-Association Studies"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Rahmani_et_al.pdf)
-* Gond and Szustakowski ["DeconRNASeq: a statistical framework for
-deconvolution of heterogeneous
-tissue samples based on mRNA-Seq data"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Gong%20and%20Szustakowski.pdf)
+* Guo et al []"BS-Seeker2: a versatile aligning pipeline for bisulfite sequencing data"](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-774)
 * Krueger and Andrews ["Bismark: a
 flexible aligner and methylation
 caller for Bisulfite-Seq applications"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Krueger%20and%20Andrews.pdf)
